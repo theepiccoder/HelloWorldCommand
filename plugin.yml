@@ -1,5 +1,5 @@
-name: HealCommand
-main: com.ConorGrocock.src.HealCommand
+name: HelloWorldCommand
+main: com.ConorGrocock.src.HelloWorldCommand
 version: 1.0
 commands:
    hello:
