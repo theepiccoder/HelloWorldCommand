@@ -1,4 +1,7 @@
-name: Acheiment Rewards
-main: com.ConorGrocock.src.Events
+name: HealCommand
+main: com.ConorGrocock.src.HealCommand
 version: 1.0
 commands:
+   hello:
+      description: Says Hello World!
+      usage: /hello
