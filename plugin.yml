@@ -1,7 +1,4 @@
-name: HelloWorld
-main: com.ConorGrocock.src.HelloWorldCommand
+name: Acheiment Rewards
+main: com.ConorGrocock.src.Events
 version: 1.0
 commands:
-   hello:
-      description: Returns Hello World.
-      usage: /hello
