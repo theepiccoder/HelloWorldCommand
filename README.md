@@ -8,3 +8,6 @@ Returns
 ```
 Hello World!
 ```
+
+## Requiremtns
+Bukkit/Spigot
